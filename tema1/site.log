@@ -1,0 +1,22 @@
+|request| InternetPorvider |response| TELEKOM |latency| 0.464321645073908
+|request| City |response| Iasi |latency| 0.7452704173630309
+|request| Map |response| <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=+Iasi+TELEKOM&key=AIzaSyAbBGJtRp255cAdDqpCMd0JBAJbINn0kRs" allowfullscreen></iframe> |latency| 1.0023631549524694
+|request| City |response| Iasi |latency| 0.7439792639698375
+|request| InternetPorvider |response| TELEKOM |latency| 0.3028004404370055
+|request| InternetPorvider |response| Orange |latency| 0.6407495380599341
+|request| City |response| Iasi |latency| 0.9641740084955273
+|request| Map |response| <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=+Iasi+Orange&key=AIzaSyAbBGJtRp255cAdDqpCMd0JBAJbINn0kRs" allowfullscreen></iframe> |latency| 1.3114714833524603
+|request| City |response| Iasi |latency| 0.9125361152040465
+|request| Map |response| <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=+Iasi+Orange&key=AIzaSyAbBGJtRp255cAdDqpCMd0JBAJbINn0kRs" allowfullscreen></iframe> |latency| 1.3787258842073467|request| InternetPorvider |response| Orange |latency| 1.1067206400785068
+|request| InternetPorvider |response| Orange |latency| 0.48806519476149557
+|request| City |response| Iasi |latency| 1.1874640302507102
+|request| Map |response| <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=+Iasi+Orange&key=AIzaSyAbBGJtRp255cAdDqpCMd0JBAJbINn0kRs" allowfullscreen></iframe> |latency| 1.751021213606613
+|request| InternetPorvider |response| Orange |latency| 0.8145999727514756
+|request| InternetPorvider |response| Orange |latency| 0.9687184999541818
+|request| InternetPorvider |response| Orange |latency| 0.5387954503691414
+|request| InternetPorvider |response| Orange |latency| 0.7818716827224463
+|request| Map |response| <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=+Iasi+Orange&key=AIzaSyAbBGJtRp255cAdDqpCMd0JBAJbINn0kRs" allowfullscreen></iframe> |latency| 1.533143078511145
+|request| City |response| Iasi |latency| 1.0858207308907595
+|request| InternetPorvider |response| Orange |latency| 1.3903816587369582
+|request| City |response| Iasi |latency| 2.5506475888207354
+|request| Map |response| <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=+Iasi+Orange&key=AIzaSyAbBGJtRp255cAdDqpCMd0JBAJbINn0kRs" allowfullscreen></iframe> |latency| 1.8385117651080227
